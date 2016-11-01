@@ -1,0 +1,14 @@
+{
+    "name": "afshinpersian/alexa",
+    "description": "simple php class for managing and detecting alexa rank of sites",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Afshin Akhgar",
+            "email": "afshin.akhgar@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
