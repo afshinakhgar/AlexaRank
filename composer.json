@@ -1,14 +1,23 @@
 {
-    "name": "afshinpersian/alexa",
+    "name": "afshinpersian/alexarank",
     "description": "simple php class for managing and detecting alexa rank of sites",
     "type": "library",
+    "keywords": ["alexa","alexa ranking","alexa seo","google seo rank","page rank","get alexa rank"],
     "license": "MIT",
+    "version": "0.1",
     "authors": [
         {
             "name": "Afshin Akhgar",
             "email": "afshin.akhgar@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {"AlexaRank\\": "src/"}
+    },
+    "support": {
+        "email": "afshin@akhgar.net",
+        "issues": "https://github.com/afshinpersian/alaxa-rank-detector/issues"
+    },
     "minimum-stability": "beta",
     "require": {}
 }
