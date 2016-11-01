@@ -11,3 +11,11 @@ composer install
 ```
 
 then run rank.php
+
+
+
+
+Also You can get it from composer by 
+```php
+composer require afshinpersian/alexarank
+```
